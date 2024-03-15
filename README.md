@@ -10,6 +10,8 @@ Supongamos que se tiene una clave privada y se quiere generar una firma digital 
 
 -En el "with open" se puede ver que esta la ruta donde quiero que se guarde el archivo txt a modo de ejemplo, esa ruta se puede modificar para guardar en la ubicación que se prefiera o borrarla y dejar solamente el archivo txt y el modo "w" o el modo que se requiera, en este caso de borrar la ruta el archivo generado generalmente se termina guardando en el "inicio" del explorador ya que no tiene una ubicación especifica, en otros casos se guarda en la misma ubicación que se encuentra el script.
 
+-En claves_generadas.txt se puede ver lo que se generaria al ejecutar edcsa_01.py
+
 En "message" también se puede modificar el mensaje por el que uno quiera.
 
 A modo de aclaración: '08b' es una cadena de formato que se pasa como argumento a la función format(). Aquí, '08b' significa lo siguiente:
