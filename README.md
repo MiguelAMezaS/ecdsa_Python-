@@ -20,3 +20,6 @@ A modo de aclaración: '08b' es una cadena de formato que se pasa como argumento
 8: Especifica que el número binario debe tener una longitud de 8 dígitos.
 b: Indica que el número debe ser representado en formato binario.
 
+## Resultado en la terminal
+
+![Captura de pantalla 2024-03-16 022747](https://github.com/MiguelAMezaS/ecdsa_Python-/assets/95736906/7d3d6ed4-f4bc-42ec-8cad-3f902f906f78)
