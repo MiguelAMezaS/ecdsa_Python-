@@ -27,3 +27,6 @@ b: Indica que el número debe ser representado en formato binario.
 ## Archivo txt generado en el editor
 ![Captura de pantalla 2024-03-16 022802](https://github.com/MiguelAMezaS/ecdsa_Python-/assets/95736906/a84aef4c-1c44-481a-9402-765d7a275e05)
 
+## Ubicación donde se guardo correctamente el archivo
+![Captura de pantalla 2024-03-16 022857](https://github.com/MiguelAMezaS/ecdsa_Python-/assets/95736906/32d51b3e-fed7-44ce-a1cc-b27c8ab92943)
+
